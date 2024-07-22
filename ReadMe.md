@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre mim:
 👯 Começando na área <br>☕ aprendendo front-end<br>💬 Apenas uma garota legal<br>🌹 Fato sobre mim: sim. 
 
 
