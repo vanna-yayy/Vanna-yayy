@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de informática-IFRN<br>👯 Começando na área <br>☕ aprendendo front-end<br>💬 Apenas uma garota legal<br>🌹 Fato sobre mim: sim. 
+👯 Começando na área <br>☕ aprendendo front-end<br>💬 Apenas uma garota legal<br>🌹 Fato sobre mim: sim. 
 
 
 ## 🌐 Socials:
